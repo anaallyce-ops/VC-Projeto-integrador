@@ -1,10 +1,8 @@
 # Registro de Progresso — Projeto Integrador
 
-**Equipe:** Equipe XX  
-**Turma:** ____________________  
+**Equipe:** Equipe Velozes e curiosos(VC)  
+**Turma:** MECA 3M  
 **Professor técnico:** ____________________
-
-Este arquivo deve registrar, de forma objetiva, o andamento semanal do projeto. A equipe não deve apagar registros anteriores. Caso o planejamento mude, a alteração deve ser descrita e justificada.
 
 ---
 
@@ -19,9 +17,9 @@ Este arquivo deve registrar, de forma objetiva, o andamento semanal do projeto. 
 
 ## Concluído
 
-- Arquitetura geral definida.
-- Definida tração com dois motores DC.
-- Criado diagrama elétrico inicial.
+- 
+- 
+- 
 - Repositório organizado com `README.md`, `PLANEJAMENTO.md` e `PROGRESSO.md`.
 
 ## Não concluído
