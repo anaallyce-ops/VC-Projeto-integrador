@@ -2,7 +2,7 @@
 
 **Equipe:** Equipe Velozes e curiosos(VC)  
 **Turma:** MECA 3M  
-**Professor técnico:** ____________________
+**Professor técnico:**  José Soares Batista Lopes
 
 ---
 
