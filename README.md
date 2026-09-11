@@ -10,13 +10,11 @@
 
 | Integrante | Área principal | Responsabilidades |
 |---|---|---|
-| Nome 1 | Piloto e calibração | Testes de dirigibilidade, calibração e operação |
-| Nome 2 | Mecânica | Chassi, direção, transmissão e montagem |
-| Nome 3 | Projeto e documentação | Arquitetura, desenhos, organização da documentação |
-| Nome 4 | Eletrônica e integração elétrica | Alimentação, drivers, motores, sensores e conexões |
-| Nome 5 | Software e controle | Comunicação, controle, sensores e automação |
-
-> As áreas acima indicam a responsabilidade principal de cada integrante, mas o trabalho pode ser compartilhado entre a equipe.
+| Lucas Podosk | Piloto e calibração | Testes de dirigibilidade, calibração e operação |
+| Maria Eduarda | Mecânica | Chassi, direção, transmissão e montagem |
+| Ana Allyce e Maria Eloisa | Projeto e documentação | Arquitetura, desenhos, organização da documentação |
+| Joaquim | Eletrônica e integração elétrica | Alimentação, drivers, motores, sensores e conexões |
+| Lucas Gabriel | Software e controle | Comunicação, controle, sensores e automação |
 
 ---
 
@@ -76,7 +74,7 @@ Celular embarcado --> transmissão de vídeo
 ---
 
 ## 4. Estado atual do desenvolvimento
-
+*-0.0-Criação do repositório no github*  
 Atualizar esta seção ao longo do projeto.
 
 ### Concluído
