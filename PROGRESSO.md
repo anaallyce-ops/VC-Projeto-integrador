@@ -43,9 +43,9 @@ Não houve.
 
 ## Próximas ações
 
--Realizar uma reunião com o técnico.
--Criar um novo chassi do veículo.
--Fazer projeto no Fusion 360.
+- Realizar uma reunião com o técnico.
+- Criar um novo chassi do veículo.
+- Fazer projeto no Fusion 360.
 
 # Semana 2 — 23/09/2026 a 29/09/2026
 
