@@ -19,11 +19,11 @@
 ## Concluído
 
 - Realizar reunião inicial com os membros da equipe.
--Iniciar o planejamento geral do projeto.
--Definir as atividades das semanas seguintes.
--Criar a estrutura inicial do repositório.
--Preencher a planilha inicial de planejamento.
--Criação de um diagrama elétrico inicial
+- Iniciar o planejamento geral do projeto.
+- Definir as atividades das semanas seguintes.
+- Criar a estrutura inicial do repositório.
+- Preencher a planilha inicial de planejamento.
+- Criação de um diagrama elétrico inicial
 - Repositório organizado com `README.md`, `PLANEJAMENTO.md` e `PROGRESSO.md`.
 
 ## Não concluído
