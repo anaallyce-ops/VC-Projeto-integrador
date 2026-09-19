@@ -89,11 +89,11 @@ Não houve.
 # Semana 3 — 30/09/2026 a 06/10/2026
 
 ## Planejado
--Montar o novo chassi.
--Desenvolver a parte mecânica do veículo.
--Desenvolver a parte eletroeletrônica.
--Instalar os componentes necessários.
--Realizar os testes iniciais do sistema.
+- Montar o novo chassi.
+- Desenvolver a parte mecânica do veículo.
+- Desenvolver a parte eletroeletrônica.
+- Instalar os componentes necessários.
+- Realizar os testes iniciais do sistema.
 
 ## Concluído
 
@@ -128,10 +128,10 @@ Não houve.
 ## Planejado
 
 - Realizar a programação inicial do veículo.
--Desenvolver o subsistema de movimentação.
--Testar o funcionamento do subsistema.
--Verificar o acionamento e funcionamento dos motores.
--Organizar o veículo e documentos para a avaliação da Etapa 01.
+- Desenvolver o subsistema de movimentação.
+- Testar o funcionamento do subsistema.
+- Verificar o acionamento e funcionamento dos motores.
+- Organizar o veículo e documentos para a avaliação da Etapa 01.
 
 ## Concluído
 
@@ -466,9 +466,9 @@ Descrever qual subsistema ou conjunto de subsistemas será demonstrado na bancad
 ## Planejado
 
 - Realizar o treino oficial.
--Preparar o veículo para a homologação.
--Realizar a homologação em 15/12.
--Verificar se o veículo está de acordo com os requisitos da competição.
+- Preparar o veículo para a homologação.
+- Realizar a homologação em 15/12.
+- Verificar se o veículo está de acordo com os requisitos da competição.
 
 ## Concluído
 
