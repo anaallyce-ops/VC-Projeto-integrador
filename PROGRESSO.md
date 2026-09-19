@@ -11,10 +11,10 @@
 ## Planejado
 
 - Realizar reunião inicial com os membros da equipe.
--Iniciar o planejamento geral do projeto.
--Definir as atividades das semanas seguintes.
--Criar a estrutura inicial do repositório.
--Preencher a planilha inicial de planejamento.
+- Iniciar o planejamento geral do projeto.
+- Definir as atividades das semanas seguintes.
+- Criar a estrutura inicial do repositório.
+- Preencher a planilha inicial de planejamento.
 
 ## Concluído
 
