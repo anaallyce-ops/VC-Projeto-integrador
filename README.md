@@ -143,7 +143,7 @@ docs/
 | ESP32 | 1 | Kit da organização | Disponível |
 | Motor DC | 2 | Kit da organização | Disponível |
 | Driver de motor | 1 | Kit da organização | Disponível |
-| ____________________ | ___ | Equipe / organização | ____________________ |
+| ESP32-CAM | 1 | Equipe / organização | Disponível |
 
 ---
 
